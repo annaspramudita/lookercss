@@ -54,18 +54,18 @@
 }
 
 th.headerCell {
-  background-color: #ccd8e4;
+  background-color: #2c437f;
   padding: 5px;
   border-bottom: 1px solid #BDC3C7;
 }
 
 .headerCell.dimension {
-  background-color: #e4ecf3;
+  background-color: #2c437f;
   border-right: 1px solid #BDC3C7; 
 }
 
 .headerCell.pivot {
-  background-color: #ccd8e4;
+  background-color: #2c437f;
   border-right: 1px solid #BDC3C7; 
 }
 
