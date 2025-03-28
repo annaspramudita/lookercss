@@ -73,11 +73,13 @@ th.headerCell {
   background-color: #ccd8e4;
   border-right: 1px solid #000000; 
   color: white;
+  text-align: center;
 }
 
 .headerCell.measure {
   background-color: #e4d0bd;
   border-left: 1px solid #BDC3C7; 
+  text-align: center;
 }
 
 .headerCell.measure.calculation {
