@@ -75,6 +75,7 @@ th.headerCell {
 .headerCell.measure {
   background-color: #e4d0bd;
   border-left: 1px solid #BDC3C7; 
+  color: white;
 }
 
 .headerCell.measure.calculation {
@@ -84,6 +85,7 @@ th.headerCell {
 
 .headerCell.transposed.dimension {
   background-color: #e4ecf3;
+  color: white;
 }
 
 .headerCell.transposed.dimension.merged {
